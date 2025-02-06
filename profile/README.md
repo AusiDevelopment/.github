@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+
+<details>
+  <summary>Social Medias from Staff</summary>
+  
+  <br>
+  
+   <details>
+    <summary>vNoaaah</summary>
+  <br>
+  <img src="https://cdn.discordapp.com/avatars/1003257113033834496/a_e3c93fa4e49d108d204af2f96dc83ddc.gif?size=512" width="196" height="196"><br>
+     
+     
+  <a href="https://youtube.com/@EyNoah">@vNoaaah</a> on <b>YouTube</b><hr>
+    
+  </details>
+  
+    
+  </details>
+
 <!--
 
 **Here are some ideas to get you started:**
